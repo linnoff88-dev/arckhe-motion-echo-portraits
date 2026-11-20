@@ -1,0 +1,1 @@
+Curso Motion Echo v6 e guia publicados em PT/EN/ES, com quatro retratos originais, quatro aulas práticas e cinco cenas. Portal (ID 319), busca e PRO atualizados via git. Evidências e commits em publicacao.md. Sem teste humano real.
