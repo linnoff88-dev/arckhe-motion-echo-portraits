@@ -1,8 +1,8 @@
 # Publicaçêo concluída — 2026-10-05
 
-Curso v6 e guia em PT/EN/ES: https://inematds.github.io/motion-echo-portraits/
+Curso v6 e guia em PT/EN/ES: https://linnoff88-dev.github.io/arckhe-/
 
-Ficha do portal: https://www.inema.club/cursos/319-motion-echo-v6-retratos-com-eco-de-movimento/
+Ficha do portal: https://www.ARCKHÉ AI/cursos/319-motion-echo-v6-retratos-com-eco-de-movimento/
 
 Publicaçêo via git confirmada:
 - Portal: `e552a0d` — 318 cursos e 284 projetos; traduções EN/ES registradas.

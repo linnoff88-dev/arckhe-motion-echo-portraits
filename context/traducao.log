@@ -1,4 +1,4 @@
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · ARCKHÉ AI PRO'
 361 unidades de texto (27110 caracteres) · Codex pela assinatura (gpt-6-luna) · reserva Groq desligada
   en rodada 1 lote 1/11: 30 ok, 0 rejeitadas
   en rodada 1 lote 2/11: 31 ok, 0 rejeitadas
@@ -11,7 +11,7 @@
   en rodada 1 lote 9/11: 40 ok, 0 rejeitadas
   en rodada 1 lote 10/11: 40 ok, 0 rejeitadas
   en rodada 1 lote 11/11: 10 ok, 0 rejeitadas
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · ARCKHÉ AI PRO'
 en/: curso.html, landing.html, index.html, assets/curso.js
   es rodada 1 lote 1/11: 30 ok, 0 rejeitadas
   es rodada 1 lote 2/11: 31 ok, 0 rejeitadas
@@ -24,6 +24,6 @@ en/: curso.html, landing.html, index.html, assets/curso.js
   es rodada 1 lote 9/11: 40 ok, 0 rejeitadas
   es rodada 1 lote 10/11: 40 ok, 0 rejeitadas
   es rodada 1 lote 11/11: 10 ok, 0 rejeitadas
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Motion Echo v6 · ARCKHÉ AI PRO'
 es/: curso.html, landing.html, index.html, assets/curso.js
 chamadas pela assinatura do Codex: 22; reserva Groq usada: 0 lote(s)

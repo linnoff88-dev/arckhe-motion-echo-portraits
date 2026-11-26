@@ -6,18 +6,18 @@
 
 An open guide to motion echo portraits: reference photos, four neon directions, original prompts, review and practice creating an editorial series.
 
-[User guide](https://inematds.github.io/motion-echo-portraits/guia/en/)
+[User guide](https://linnoff88-dev.github.io/arckhe-/guia/en/)
 
 Open `guia/en/index.html` in a browser to read locally. Copying prompts works over HTTPS or localhost; when unavailable, the text is selected for manual copying. Notes and theme use the browser’s local storage.
 
-The site is static and does not send photos or call generators. The four original English prompts were supplied by the user from the AVCC · AI Video Creators guide. The explanations and exercises are INEMA additions. They have not yet been tested through image generation in this release.
+The site is static and does not send photos or call generators. The four original English prompts were supplied by the user from the AVCC · AI Video Creators guide. The explanations and exercises are ARCKHÉ additions. They have not yet been tested through image generation in this release.
 
 Version: 1.1.0.
 
 ## v6 course
 
-[v6 course](https://inematds.github.io/motion-echo-portraits/en/landing.html) · 4 practical lessons.
+[v6 course](https://linnoff88-dev.github.io/arckhe-/en/landing.html) · 4 practical lessons.
 
-## More on INEMA.CLUB
+## More on ARCKHÉ AI
 
-[View this course on INEMA.CLUB](https://www.inema.club/cursos/319-motion-echo-v6-retratos-com-eco-de-movimento/)
+[View this course on ARCKHÉ AI](https://www.ARCKHÉ AI/cursos/319-motion-echo-v6-retratos-com-eco-de-movimento/)
