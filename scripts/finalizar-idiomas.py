@@ -22,7 +22,7 @@ for lang in ['pt','en','es']:
  txt=txt.replace('1.0.0','1.1.0');readme.write_text(txt)
 print('Links curso↔guia, seletor interno e READMEs atualizados nos3idiomas.')
 
-# Ficha definitiva do portal; reaplicável após reconstrução das páginas.
+# Ficha definitiva do portal; reaplicável após reconstruçêo das páginas.
 import re
 portal='https://www.inema.club/cursos/319-motion-echo-v6-retratos-com-eco-de-movimento/'
 for lang,label,heading in [('pt','Ver a ficha no INEMA.CLUB','Mais no INEMA.CLUB'),('en','View this course on INEMA.CLUB','More on INEMA.CLUB'),('es','Ver el curso en INEMA.CLUB','Más en INEMA.CLUB')]:

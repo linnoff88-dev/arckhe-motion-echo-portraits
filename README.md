@@ -1,4 +1,4 @@
-﻿# Motion Echo Portraits
+ï»¿# Motion Echo Portraits
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,23 +6,23 @@
 </div>
 
 
-![Eco fantasma violeta](guia/assets/violeta.png) | ![DissoluÃ§Ã£o de ciano](guia/assets/ciano.png) | ![Arraste de pixel escarlate](guia/assets/escarlate.png) | ![RotaÃ§Ã£o em azul elÃ©trico](guia/assets/azul.png)
+![Eco fantasma violeta](guia/assets/violeta.png) | ![DissoluêÂ§êÂ£o de ciano](guia/assets/ciano.png) | ![Arraste de pixel escarlate](guia/assets/escarlate.png) | ![RotaêÂ§êÂ£o em azul elêÂ©trico](guia/assets/azul.png)
 
-**[PortuguÃªs](README.md) Â· [English](README.en.md) Â· [EspaÃ±ol](README.es.md)**
+**[PortuguêÂªs](README.md) êÂ· [English](README.en.md) êÂ· [EspaêÂ±ol](README.es.md)**
 
-Guia aberto de retratos com eco de movimento: referÃªncia, quatro direÃ§Ãµes neon, prompts originais, revisÃ£o e prÃ¡tica de uma sÃ©rie editorial.
+Guia aberto de retratos com eco de movimento: referêÂªncia, quatro direêÂ§êÂµes neon, prompts originais, revisêÂ£o e prêÂ¡tica de uma sêÂ©rie editorial.
 
 [Guia de uso](https://inematds.github.io/motion-echo-portraits/guia/)
 
-Abra `guia/index.html` no navegador para leitura local. Copiar prompts funciona em HTTPS ou localhost; quando indisponÃ­vel, o texto Ã© selecionado para cÃ³pia manual. AnotaÃ§Ãµes e tema usam armazenamento local do navegador.
+Abra `guia/index.html` no navegador para leitura local. Copiar prompts funciona em HTTPS ou localhost; quando indisponêÂ­vel, o texto êÂ© selecionado para cêÂ³pia manual. AnotaêÂ§êÂµes e tema usam armazenamento local do navegador.
 
-O site Ã© estÃ¡tico e nÃ£o envia fotos nem chama geradores. Os quatro prompts originais em inglÃªs foram fornecidos pelo usuÃ¡rio a partir do guia AVCC Â· AI Video Creators. As explicaÃ§Ãµes e exercÃ­cios sÃ£o complementos INEMA. Ainda nÃ£o foram testados por geraÃ§Ã£o nesta entrega.
+O site êÂ© estêÂ¡tico e nêÂ£o envia fotos nem chama geradores. Os quatro prompts originais em inglêÂªs foram fornecidos pelo usuêÂ¡rio a partir do guia AVCC êÂ· AI Video Creators. As explicaêÂ§êÂµes e exercêÂ­cios sêÂ£o complementos INEMA. Ainda nêÂ£o foram testados por geraêÂ§êÂ£o nesta entrega.
 
-VersÃ£o: 1.1.0.
+VersêÂ£o: 1.1.0.
 
 ## Curso v6
 
-[Curso v6](https://inematds.github.io/motion-echo-portraits/landing.html) Â· 4 aulas prÃ¡ticas.
+[Curso v6](https://inematds.github.io/motion-echo-portraits/landing.html) êÂ· 4 aulas prêÂ¡ticas.
 
 ## Mais no INEMA.CLUB
 
